@@ -70,4 +70,7 @@ function resetBackground() {
 
 function toggleOnOff() {
     active = !active;
+    if(active){
+        openButton.click();
+    }
 }
