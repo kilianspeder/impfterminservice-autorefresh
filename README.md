@@ -2,6 +2,8 @@
  
 *English version below*
 
+## Deutsch:
+
 ### Allgemeine Hinweise
 
 - Dieses Skript wurde entwickelt für die Plattform *imptferminservice.de* zur automatischen Suche nach Impfterminen 
