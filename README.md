@@ -30,7 +30,7 @@ Variable ```timeToWaitForAPI``` über die Konsole ändern. Der Wert wird in Mill
 
 ---
 
-## English Version:
+## English:
 
 ### General information
 - This script was developed to automate the search for vaccinations appointments on *impfterminservice.de*
