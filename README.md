@@ -20,7 +20,7 @@
 5. Das Popup öffnet und schließt sich jetzt automatisch, bis ein Termin gefunden wurde. Jede Öffnung stößt eine erneute Suche an.
 6. Sobald ein Termin gefunden wurde, ertönt ein Ton und der Hintergrund der Webseite wird rot.
 7. Um den Hintergrund wieder weiß zu machen, muss man die ```resetBackground()``` in die Konsole eingeben und ausführen.
-8. Das Skript lässt sich mit dem Befehl ```toggleOnOff()*``` über die Konsole ein- und ausschalten.
+8. Das Skript lässt sich mit dem Befehl ```toggleOnOff()``` über die Konsole ein- und ausschalten.
 
 
 ### Fortgeschrittenes
